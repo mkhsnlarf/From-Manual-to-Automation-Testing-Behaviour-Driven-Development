@@ -1,3 +1,6 @@
-### From-Manual-to-Automation-Testing-Behaviour-Driven-Development
-##haha
-#HAHAH
+# From-Manual-to-Automation-Testing-Behaviour-Driven-Development
+
+# From Manual to Automation testing
+# Pengertian
+Manual testing adalah metode pengujian perangkat lunak yang dilakukan secara manual oleh seorang pengujian dengan tujuan untuk memastikan bahwa perangkat lunak berfungsi dengan baik dan sesuai dengan spesifikasi yang telah ditentukan. Pada manual testing, pengujian dilakukan dengan cara menjalankan perangkat lunak secara manual dan memeriksa setiap fitur dan fungsinya. Pengujian manual juga dapat dilakukan dengan menggunakan skrip manual atau panduan pengujian yang telah dibuat sebelumnya. Pengujian manual memerlukan banyak waktu dan tenaga manusia, namun dapat memberikan hasil pengujian yang akurat.
+Sementara itu, automation testing adalah metode pengujian perangkat lunak yang menggunakan perangkat lunak otomatis untuk menjalankan pengujian. Dalam automation testing, skrip pengujian ditulis terlebih dahulu dan kemudian dieksekusi menggunakan perangkat lunak otomatis. Automation testing dapat membantu menghemat waktu dan tenaga, serta memberikan hasil pengujian yang lebih konsisten dan akurat dibandingkan dengan manual testing. Namun, automation testing juga memerlukan biaya dan upaya yang lebih besar untuk menyiapkan dan memelihara skrip pengujian, dan tidak dapat menggantikan pengujian manual sepenuhnya.
